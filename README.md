@@ -1,5 +1,6 @@
 # 💫 About Me:
-Full Stack Developer
+## Hi there I am Madhushan 👋
+
 
 
 ## 🌐 Socials:
