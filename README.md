@@ -60,16 +60,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surangamadhushan24&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surangamadhushan24&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surangamadhushan24&theme=radical&hide_border=false&layout=compact)
-
----
-
 ## 📫 Connect With Me
 - 💼 GitHub: [@surangamadhushan24](https://github.com/surangamadhushan24)
 - 📧 Email: *surangamadhushan24@gmail.com*
