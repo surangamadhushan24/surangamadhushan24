@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineer;Backend+Enthusiast;Cloud+%26+Database+Explorer;Unity+Game+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineer;Backend+Enthusiast;Unity+Game+Developer" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 💻 Passionate **Full-Stack Developer** with experience in building scalable applications  
 🌱 Always learning new technologies and improving system design skills  
 🎮 Interested in **Game Development using Unity**  
-☁️ Exploring **Cloud Computing & Backend Architecture**
+
 
 ---
 
