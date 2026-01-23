@@ -1,4 +1,3 @@
-# 💫 About Me
 
 <h1 align="center">
   Hi there 👋, I'm <span style="color:#ff4d6d;">Madhushan</span>
