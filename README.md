@@ -13,6 +13,7 @@
 💻 Passionate **Full-Stack Developer** with experience in building scalable applications  
 🌱 Always learning new technologies and improving system design skills  
 🎮 Interested in **Game Development using Unity**  
+🤝 I’m available for freelancing.
 
 
 ---
